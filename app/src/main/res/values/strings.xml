@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tec1</string>
+    <string name="ingrese_el_monto">Ingrese el monto</string>
+    <string name="seleccione_metodo_pago">Seleccione Metodo Pago</string>
+    <string name="pagar">CHECKOUT</string>
+    <string name="checkout_finalizado">Checkout Finalizado!</string>
+</resources>
